@@ -28,8 +28,8 @@ This is a RESTful API built using **Node.js**, **Express.js**, and **MongoDB** (
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/inventory-api.git
-cd inventory-api
+git clone https://github.com/Snehaaa-Kri/InventoryManagement.git
+cd InventoryManagement/server
 ```
 
 ### 2. Install dependencies
